@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bruvini
+- 👀 I’m interested in python and public health
+- 🌱 I’m currently learning python for selfknowledgment
+- 💞️ I’m not looking to collaborate right now
+- 📫 How to reach me is with chocolate, TWICE (kpop) and smart
