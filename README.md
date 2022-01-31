@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @bruvini
-- 👀 I’m interested in python and public health
-- 🌱 I’m currently learning python for selfknowledgment
-- 💞️ I’m not looking to collaborate right now
-- 📫 How to reach me is with chocolate, TWICE (kpop) and smart
+- 👋 Olá, Eu sou Bruno Vinícius, enfermeiro e aspirante à DEV.
+- 👀 Sou inteiramente apaixonado por saúde pública e programação, pretendo aliar minhas duas paixões e atuar com bioprogramação e programação aplicada à Ciências da Saúde
+- 🌱 Atualmente Enfermeiro Residente em Saúde da Família pela ESP Floripa e granduando em Análise e Desenvolvimento de Sistemas pela PUCPR 
+- Estou aberto à conhecer mais do mundo da programação e colaborar com pessoas pacientes e dedicadas, ainda mais se atuar na área da saúde
