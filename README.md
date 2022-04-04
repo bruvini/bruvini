@@ -21,3 +21,5 @@ Estou aberto à conhecer mais do mundo da programação e colaborar com pessoas 
 - ⚡ Curiosidade: eu tenho uma porquinha-da-Índia chamada Nayeon, o mesmo nome da integrante mais velha do Twice
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruvini&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/bruvini)  
