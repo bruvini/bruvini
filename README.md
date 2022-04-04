@@ -19,3 +19,5 @@ Estou aberto à conhecer mais do mundo da programação e colaborar com pessoas 
 - 💬 Pergunte-me sobre Saúde Pública e vida em Florianópolis
 - 📫 Como me encontrar: você só me encontra aqui, desculpe!
 - ⚡ Curiosidade: eu tenho uma porquinha-da-Índia chamada Nayeon, o mesmo nome da integrante mais velha do Twice
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruvini&show_icons=true)  
