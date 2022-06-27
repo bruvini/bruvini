@@ -43,8 +43,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/bruvini/bruvini/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="center">Ainda tem muito mais por vir! Me siga por aqui!</p>
