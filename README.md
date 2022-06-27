@@ -1,27 +1,53 @@
-### Hi there 👋, eu sou Bruno Vinícius
-#### Enfermeiro e Aspirante à DEV.
+<h2 align="center">Olá👋! eu sou Bruno Vinícius</h2>
 
-![Enfermeiro e Aspirante à DEV.](https://img.freepik.com/fotos-gratis/medico-trabalhando-no-computador_85869-8796.jpg?w=2000)
+###
 
-🌱 Atualmente **Enfermeiro Residente em Saúde da Família** pela ESP Florianópolis e **graduando em Análise e Desenvolvimento de Sistemas** pela PUCPR
+<h4 align="center">Enfermeiro e Aspirante à DEV</h4>
 
-👀 Sou inteiramente apaixonado por saúde pública e programação, pretendo aliar minhas duas paixões e atuar com bioprogramação e programação aplicada à Ciências da Saúde
+###
 
-Estou aberto à conhecer mais do mundo da programação e colaborar com pessoas pacientes e dedicadas, ainda mais se atuar na área da saúde
+<p align="left">🌱 Atualmente Enfermeiro Residente em Saúde da Família pela ESP Florianópolis e graduando em Análise e Desenvolvimento de Sistemas pela PUCPR.<br><br>👀 Sou inteiramente apaixonado por saúde pública e programação, pretendo aliar minhas duas paixões e atuar com Informática em Saúde no desenvolvimento de Softwares para o SUS.<br><br>Estou aberto à conhecer mais do mundo da programação e colaborar com pessoas pacientes e dedicadas, ainda mais se atuar na área da saúde</p>
 
-**Skills:**
+###
 
-![python](https://user-images.githubusercontent.com/86611700/161645237-4a1a56c1-91a2-4f1f-963b-4b09a3629cf3.png) - ![java](https://user-images.githubusercontent.com/86611700/165651880-918c0bc6-7889-4804-b3bb-91c1161dc489.png) - ![enfermeiro](https://user-images.githubusercontent.com/86611700/161645396-e1400db3-3cae-46c8-a1ef-ba387d1b19b6.png) - ![Auriculoterapeuta](https://user-images.githubusercontent.com/86611700/161645622-eb3d28f4-9978-44d5-a4f7-97552439dbe8.png) -  ![fitoterapia](https://user-images.githubusercontent.com/86611700/161645402-51a75170-9290-470d-92da-d9e8f4409e0f.png) - ![Especialista em ISTs](https://user-images.githubusercontent.com/86611700/161645534-4a05fb26-5083-4b74-8842-4e8e91ffd357.png) - ![Estudante de Idiomas](https://user-images.githubusercontent.com/86611700/161645645-68c12c89-6a76-41e4-9f15-ee259f4c5360.png)
+<br clear="both">
 
-- 🔭 Finalizei o projeto interminável de Raciocínio Computacional construindo o jogo "Zombie Dice" em Python (disponível em meus repositórios)
-- 🌱 Aprendendo Programação Orientada à Objetos com JAVA
-- 🤔 Procurando ajuda com POO
-- 💬 Pergunte-me sobre Saúde Pública e vida em Florianópolis
-- 📫 Como me encontrar: você só me encontra aqui, desculpe!
-- ⚡ Curiosidade: eu tenho uma porquinha-da-Índia chamada Nayeon, o mesmo nome da integrante mais velha do Twice
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql logo"  />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruvini&show_icons=true)  
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvini)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=pt-br&hide_border=true&username=bruvini" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=bruvini" height="150" alt="languages graph"  />
+</div>
 
-![Profile views](https://gpvc.arturio.dev/bruvini)  
+###
+
+<div align="center">
+  <a href="www.instagram.com/bruvini/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="bruvini.silva12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/enfbrunovinicius/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/bruvini/bruvini/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="center">Ainda tem muito mais por vir! Me siga por aqui!</p>
+
+###
+Profile Readme Generator
