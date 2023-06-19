@@ -1,5 +1,14 @@
 # 💫 About Me:
-🌱 Atualmente Enfermeiro Residente em Saúde da Família pela ESP Florianópolis e graduando em Análise e Desenvolvimento de Sistemas pela PUCPR.<br><br>👀 Sou inteiramente apaixonado por saúde pública e programação, pretendo aliar minhas duas paixões e atuar com Informática em Saúde no desenvolvimento de Softwares para o SUS.<br><br>Estou aberto à conhecer mais do mundo da programação e colaborar com pessoas pacientes e dedicadas, ainda mais se atuar na área da saúde
+
+🌱 Atualmente Enfermeiro Especialista em Saúde da Família e graduando em Análise e Desenvolvimento de Sistemas pela PUCPR.
+
+👀 Sou um apaixonado por saúde pública e programação, tendo a ambição de aliar essas duas paixões e atuar com Informática em Saúde, especificamente no desenvolvimento de softwares para o SUS. Recentemente, me descobri fascinado por Inteligência Artificial, e estou ansioso para explorar e implementar essa tecnologia nos meus futuros projetos.
+
+🎯 Sonho em contribuir para um SUS mais dinâmico, seguro e informatizado. Estou no caminho para tornar esse sonho uma realidade, planejando cursar o mestrado de Informática em Saúde na UFSC e escrever muitos artigos sobre as ferramentas que desenvolvo.
+
+🤝 Estou sempre aberto a novas conexões e colaborações. Acredito que somos melhores juntos e valorizo o poder do networking. Se você compartilha dos mesmos interesses ou acha que podemos trabalhar bem juntos, não hesite em me contatar!
+
+💻 Destaco dois dos meus projetos: o Portal CSAE Floripa, desenvolvido em conjunto com a Secretaria Municipal de Saúde de Florianópolis, que teve mais de 1800 acessos nos primeiros seis meses de lançamento, e o LeitoFacil, um sistema que desenvolvi para auxiliar na regulação de leitos do Complexo Hospitalar do Trabalhador, utilizando ferramentas simples do Google.
 
 
 ## 🌐 Socials:
